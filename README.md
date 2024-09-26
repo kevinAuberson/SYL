@@ -1,4 +1,5 @@
-# SYL-22-23
+# SYL
+Systèmes logiques 2022-2023
 | Labos | Notes |
 | ---- | ---- |
 | Labo 1 | 6.0 |
